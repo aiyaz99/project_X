@@ -1,0 +1,220 @@
+  .navbar{
+      background-color: rgb(5, 162, 177);
+      padding: 10px;  
+      text-align: right;  
+      font-size: 22px;
+      font-family: Poppins, sans-serif;
+  }
+  a{
+      color: white;
+      text-decoration: none;
+      font-family: Poppins, sans-serif;
+  }
+  .navbar a{
+      margin-left: 40px;
+      margin-right: 30px;
+      font-family: sans-serif;
+  }
+
+  body{
+      margin: 0;
+  }
+
+  .softland{
+      float: left;
+  }
+
+  .img_info{
+      position: absolute;
+      bottom: 8px;
+      left: 30px;
+      font-size: 80px;
+      font-family: Poppins, sans-serif;
+      color: white;
+      top: 200px;
+      margin-left: 60px;
+    }
+    .save{
+      font-size: 70px;
+      text-align: center;
+      margin-top: 10%;
+      font-family: Poppins, sans-serif;
+      color: rgb(36, 189, 203);
+    }
+
+  .col{
+    width: 33.33%;
+    margin-left: 185px;
+    margin-right: 27px;
+  }
+
+  .row{
+    display: flex;
+  }
+
+  .icon{
+    text-align: left;
+    margin-left: -60px;
+    font-family: Poppins, sans-serif;
+  }
+
+  .icon_info{
+    margin-left: -80px;
+    font-family: Poppins, sans-serif;
+  }
+  .img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 100px;
+  }
+
+  .step{
+    border: 5px solid gray;
+    margin-left: -150px;
+    margin-top: 100px;
+    margin-right: 26px;
+    border-radius: 9px;
+  }
+  .th{
+    text-align: center;
+    font-size: 20px;
+    font-family: Poppins, sans-serif;
+  }
+  .female_img{
+    display: block;
+    width: 40%;
+    float: right;
+    margin-top: 100px;
+  }
+  .seamless{
+    margin-left: 150px;
+    margin-top: 150px;
+    font-size: 40px;
+    font-family: Poppins, sans-serif; 
+  }
+  .seamless_def{
+    font-size: 20px;
+    margin-left: 140px;
+    font-family: Poppins, sans-serif;
+  }
+  .male_img{
+    width: 40%;
+    float: left;
+    margin-top: 150px;
+  }
+  .feedback{
+    margin-top: 265px;
+    margin-left: 1000px;
+    font-size: 40px;
+    font-family: Poppins, sans-serif;
+  }
+  .feedback_def{
+    margin-left: 920px;
+    font-size: 20px;
+    font-family: Poppins, sans-serif;
+  }
+  .navbar2{
+    background-color: rgb(36, 189, 203);
+    padding: 120px;
+    margin-top: 300px;
+  }
+  .publish{
+    margin-top: -170px;
+    font-size: 50px;
+    margin-left: 100px;
+    font-family: sans-serif;
+  }
+  .about{
+    margin-top: 150px;
+    font-size: 20px;
+    margin-left: 100px;
+    font-family: Poppins, sans-serif;
+  }
+  .about_section{
+    margin-left: 100px;
+    font-family: Poppins, sans-serif;
+    font-size: 15px;
+  }
+  .navigation{
+    margin-left: 630px;
+    margin-top: -138px;
+    font-size: 20px;
+    font-family: Poppins, sans-serif;
+  }
+  .navi_info{
+    font-family: Poppins, sans-serif;
+    margin-left: 630px;
+    margin-top: 25px;
+    font-size: 20px;
+  }
+  .service{
+    font-family: Poppins, sans-serif;
+    margin-left: 900px;
+    margin-top: -163px;
+    font-size: 20px ;
+  }
+  .services{
+    margin-left: 900px;
+    font-family: Poppins, sans-serif;
+    font-size: 20px;
+  }
+  .downloads{
+    margin-left: 1170px;
+    font-family: Poppins, sans-serif;
+    margin-top: -163px;
+    font-size: 20px;
+  }
+  .playstore{
+    margin-left: 1150px;
+    font-family: Poppins, sans-serif;
+    margin-top: 30px;
+    font-size: 20px;
+  }
+  .appstore{
+    margin-left: 1150px;
+    font-family: Poppins, sans-serif;
+    font-size: 20px;
+  }
+
+  .designedby{
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    margin-top: -14px;
+  }
+
+  .btn{
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+    background-color: gray;
+    margin-top: 100px;
+    color: rgb(0, 0, 0);
+  }
+  .copyy{
+    text-align: center;
+    margin-top: 50px ;
+  }
+
+  .navbar3{
+    background-color: rgb(2, 111, 121);
+    padding: 170px;
+  }
+
+  .title1{
+    font-family: sans-serif;
+    margin-top: -325px;
+    margin-left: 50px;
+    font-size: 30px;
+  }
+
+  .title2{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 50px;
+  }
+
+
+  
